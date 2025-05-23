@@ -1,5 +1,11 @@
 # Projeto OdontoPrev - Detecção de Padrões Comportamentais
 
+### Thiago Carrillo RM553565
+
+### Igor Oviedo RM553434
+
+### Cauã Loureiro RM553093
+
 ## Descrição
 
 Este projeto tem como objetivo identificar padrões comportamentais dos beneficiários da OdontoPrev para melhorar o atendimento e reduzir custos relacionados a sinistros odontológicos. A análise baseia-se em dados simulados enriquecidos, utilizando técnicas de machine learning para classificar o risco de sinistro dos pacientes.
@@ -59,12 +65,3 @@ Este projeto tem como objetivo identificar padrões comportamentais dos benefici
 - Imbalanced-learn (`imblearn`) para tratamento de desequilíbrio com SMOTE
 - TensorFlow/Keras para construção e treinamento da rede neural
 
----
-
-## Como Usar
-
-1. **Preparar o ambiente:**
-
-   Instale as bibliotecas necessárias:
-   ```bash
-   pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn tensorflow
