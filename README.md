@@ -6,6 +6,8 @@
 
 ### Cauã Loureiro RM553093
 
+LINK VIDEO YOUTUBE: https://youtu.be/D0yzsfYvrGU
+
 ## Descrição
 
 Este projeto tem como objetivo identificar padrões comportamentais dos beneficiários da OdontoPrev para melhorar o atendimento e reduzir custos relacionados a sinistros odontológicos. A análise baseia-se em dados simulados enriquecidos, utilizando técnicas de machine learning para classificar o risco de sinistro dos pacientes.
